@@ -1,4 +1,4 @@
-# trading-bot
+# Trading bot
 
 ## main.py
 
